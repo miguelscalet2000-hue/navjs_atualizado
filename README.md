@@ -42,6 +42,7 @@ Alterações Implementadas pelo Grupo:
 Eu fiz alterações em todas as rotas (clientes, fornecedores, categorias, produtos e na pagiana inicial) deixando tudo mais moderno
 e com uma palheta decores com destaque no azul e detalhes em verde com o botão Excluir sem vermelho para destaque.  
 Mudei varios erros que a IA cometeu, erros bobos como mudar o sentido de um texto ou frase.
+
 Prints da Conversa com a IA:
 
 Antes da Reestilização:
