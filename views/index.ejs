@@ -1,0 +1,24 @@
+<%- include("partials/header") %>
+<%- include("partials/nav") %>
+<main class="container mt-5">
+  <section class="p-5 mb-4 bg-light rounded-3">
+    <div class="container-fluid py-2">
+      <p class="text-uppercase small fw-bold mb-3" style="letter-spacing:.14em">PAINEL DE CONTROLE</p>
+      <h1 class="display-5 fw-bold">Organizado tudo em um só lugar.</h1>
+      <p class="col-lg-8 fs-5 mt-3">Acesse e gerencie os cadastros do seu sistema com praticidade, em uma interface feita para facilitar sua rotina.</p>
+      <div class="d-flex flex-wrap gap-2 mt-4">
+        <a href="/cliente" class="btn btn-primary btn-lg">＋ Novo cadastro</a>
+        <a href="/produto" class="btn btn-success btn-lg">Explorar produtos →</a>
+      </div>
+    </div>
+  </section>
+  <h2 class="home-section-title">Acesso rápido</h2>
+  <p class="text-muted mb-3">Escolha a área que deseja gerenciar.</p>
+  <div class="home-grid">
+    <a class="home-card" href="/cliente"><span class="home-icon">♙</span><span><strong>Clientes</strong><small>Gerenciar clientes</small></span></a>
+    <a class="home-card" href="/produto"><span class="home-icon">▣</span><span><strong>Produtos</strong><small>Gerenciar produtos</small></span></a>
+    <a class="home-card" href="/categorias"><span class="home-icon">▦</span><span><strong>Categorias</strong><small>Organizar categorias</small></span></a>
+    <a class="home-card" href="/fornecedor"><span class="home-icon">◇</span><span><strong>Fornecedores</strong><small>Gerenciar fornecedores</small></span></a>
+  </div>
+</main>
+<%- include("partials/footer") %>
