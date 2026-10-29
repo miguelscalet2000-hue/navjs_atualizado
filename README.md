@@ -44,10 +44,13 @@ e com uma palheta decores com destaque no azul e detalhes em verde com o botão 
 Mudei varios erros que a IA cometeu, erros bobos como mudar o sentido de um texto ou frase.
 
 Prints da Conversa com a IA:
+![Tela inicial](imagens/melhorias_chat.png)
 
 Antes da Reestilização:
+![Tela inicial](imagens/tela-inicial.png)
 
 Depois da Reestilização:
+![Tela inicial](imagens/tela-inicial_atualizada.png)
 
 Link da Aplicação:
 
