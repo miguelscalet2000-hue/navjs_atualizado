@@ -53,6 +53,7 @@ Depois da Reestilização:
 ![Tela inicial](imagens/tela_incial_atualizada.png)
 
 Link da Aplicação:
+https://navjs-atualizado.onrender.com/
 
 Link do Repositório:
 https://github.com/miguelscalet2000-hue/navjs_atualizado
