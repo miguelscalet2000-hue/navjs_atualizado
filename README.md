@@ -47,10 +47,10 @@ Prints da Conversa com a IA:
 ![Tela inicial](imagens/melhorias_chat.png)
 
 Antes da Reestilização:
-![Tela inicial](imagens/tela-inicial.png)
+![Tela inicial](imagens/tela_inicial.png)
 
 Depois da Reestilização:
-![Tela inicial](imagens/tela-inicial_atualizada.png)
+![Tela inicial](imagens/tela_inicial_atualizada.png)
 
 Link da Aplicação:
 
